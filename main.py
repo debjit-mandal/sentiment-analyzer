@@ -58,7 +58,7 @@ class SentimentAnalyzerApp(tk.Tk):
                     blob = TextBlob(sentence)
                     sentiment = blob.sentiment.polarity
                 elif method == "Custom":
-                    sentiment = 0.0  # Placeholder
+                    sentiment = 0.0  
 
                 self.sentences.append(sentence)
                 self.sentiments.append(sentiment)

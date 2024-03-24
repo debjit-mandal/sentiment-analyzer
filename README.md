@@ -1,4 +1,4 @@
-# sentiment--analyzer
+# sentiment-analyzer
 This is a simple sentiment analyzer written in Python that uses the TextBlob library to analyze the sentiment of a given text. The sentiment is classified as either positive, negative, or neutral. 
 
 The requirements mentioned in the file`requirements.txt` must be present in the system.
